@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zendesk Garden Jekyll Theme
+title: Serious sidebar Jekyll Theme
 auto_title: false
 ---
 
