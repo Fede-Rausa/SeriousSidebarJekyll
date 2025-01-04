@@ -1,4 +1,7 @@
 title: Serious Sidebar Jekyll Theme
+version: 2.4.5
+global_footnotes: written by Z.R.
+
 remote_theme: Fede-Rausa/SeriousSidebarJekyll@main
 
 baseurl: /SeriousSidebarJekyll
@@ -6,10 +9,11 @@ baseurl: /SeriousSidebarJekyll
 search_enabled: true
 auto_page_title: true
 
-version: 2.4.5
-show_version: true
+
 show_title: true
 show_last_update_datetime: true
+show_version: true
+show_global_footnotes: true
 
 sidebar:
   - getting-started
