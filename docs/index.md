@@ -4,7 +4,7 @@ title: Zendesk Garden Jekyll Theme
 auto_title: false
 ---
 
-# jekyll-theme-zendesk-garden
+# jekyll-theme-serious-sidebar
 
 A Jekyll theme with a sidebar easy to use.
 
@@ -23,7 +23,7 @@ This is was initially possible thanks to the following awesome libraries:
 Define a `_config.yml` file in your GitHub pages directory and specify this remote theme:
 
 ```yaml
-remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+remote_theme: Fede-Rausa/SeriousSidebarJekyll@main
 ```
 
 
