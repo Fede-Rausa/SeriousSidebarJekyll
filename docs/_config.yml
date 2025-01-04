@@ -6,9 +6,9 @@ remote_theme: Fede-Rausa/SeriousSidebarJekyll@main
 
 baseurl: /SeriousSidebarJekyll
 
+link_to_github_repo: false
 search_enabled: true
 auto_page_title: true
-link_to_github_repo: false
 show_title: true
 show_last_update_datetime: true
 show_version: true
