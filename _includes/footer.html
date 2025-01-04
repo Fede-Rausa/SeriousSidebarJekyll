@@ -9,6 +9,14 @@
 {%- endcapture -%}
 <footer class="chrome:footer">
 
+  {% if site.show_global_footnotes%}
+  <div class="chrome:footer_item">
+    <span class="text-lg">
+      {{ site.global_footnotes}}
+    </span> 
+  </div>  
+  {% endif %}
+  
   {% if site.show_title %}
   <div class="chrome:footer_item">
     <span class="text-lg">
