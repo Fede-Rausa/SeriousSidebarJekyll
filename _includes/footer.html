@@ -7,12 +7,14 @@
 {{ site.github.build_revision }}
 {%- endif -%}
 {%- endcapture -%}
+
+{% if site.show_global_footnotes %}
 <footer class="chrome:footer">
 
-  {% if site.show_global_footnotes%}
+  {% if site.show_custom_footnotes%}
   <div class="chrome:footer_item">
     <span class="text-lg">
-      {{ site.global_footnotes}}
+      {{ site.custom_footnotes}}
     </span> 
   </div>  
   {% endif %}
@@ -43,3 +45,4 @@
 
   
 </footer>
+{% endif %}
