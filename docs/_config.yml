@@ -5,7 +5,7 @@ remote_theme: Fede-Rausa/SeriousSidebarJekyll@main
 baseurl: /SeriousSidebarJekyll
 
 title: Serious Sidebar Jekyll Theme
-version: 2.4.5
+version: v2.4.5
 custom_footnotes: written by Z.R.
 
 show_global_footnotes:  false
