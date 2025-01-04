@@ -9,16 +9,16 @@ previous_page: search
 | [`auto_page_title`](#automatic-page-titles) | `false` |if true the title (with hyperlink to home) is present in all pages, otherwise just in the home (index.md)| 
 | [`mermaid_enabled`](#mermaid-enabled)       | `true`                                |if true you can use mermaid                                   |
 | [`meraid_theme`](#mermaid-theme)            | `forest`                              |theme for mermaid                                             |
-| [`show_title`]          | `true`                                |if true the title is always in the footnotes                  |
-| [`show_icons_navbar`]     | `true`                                |if true the icons navbar is diplayed (needed by link to repo) |
-| [`link_to_github_repo`]   | `true`                                |if true, and if the icons navabar is true, a link to the website repo is showed |
+| `show_title`          | `true`                                |if true the title is always in the footnotes                  |
+| `show_icons_navbar`     | `true`                                |if true the icons navbar is diplayed (needed by link to repo) |
+| `link_to_github_repo`   | `true`                                |if true, and if the icons navabar is true, a link to the website repo is showed |
 | [`version`](#version)        | `version 4.5, with license` |version name (as v.3.4.0)                                     | 
-| [`show_version`]     | `true`                                |if true, and global footnotes is true,  the version name is showed in footnotes |
-| [`show_global_footnotes`]       | `true`                                |if true you can use footnotes  |
-| [`show_last_update_datetime`]      | `true`            |if true the datetime of the last change in the webpage is showed in the footnotes  |
-| [`show_custom_footnotes`]       | `true`                                |if true the custom footnotes are showed in the footnotes  |
-| [`custom_footnotes`]      | `written by JRR Tolkien`              |any other text you want to show in the footnotes     |
-| [`search_enabled`]    | `true`                                |if true the search query is displayed at top-right corner |
+| `show_version`     | `true`                                |if true, and global footnotes is true,  the version name is showed in footnotes |
+| `show_global_footnotes`       | `true`                                |if true you can use footnotes  |
+| `show_last_update_datetime`      | `true`            |if true the datetime of the last change in the webpage is showed in the footnotes  |
+| `show_custom_footnotes`       | `true`                                |if true the custom footnotes are showed in the footnotes  |
+| `custom_footnotes`      | `written by JRR Tolkien`              |any other text you want to show in the footnotes     |
+| `search_enabled`    | `true`                                |if true the search query is displayed at top-right corner |
 
 ## Version
 
