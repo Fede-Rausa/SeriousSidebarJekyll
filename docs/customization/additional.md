@@ -36,7 +36,7 @@ If you don't want this behavior, you can explicitly set the `version` attribute 
 version: v1.2.3
 ```
 
-If you don't want a version to be displayed at all, you can opt-out by setting `version` to `false.
+If you don't want a version to be displayed at all, you can opt-out by setting `version` or `show_version` to `false.
 
 ```yaml
 version: false
