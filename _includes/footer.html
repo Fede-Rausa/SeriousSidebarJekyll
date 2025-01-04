@@ -8,24 +8,30 @@
 {%- endif -%}
 {%- endcapture -%}
 <footer class="chrome:footer">
-<!--   {%- if site.version != false and version != "" -%}
+
+  {% if site.show_title %}
+  <div class="chrome:footer_item">
+    <span class="text-lg">
+      {{ site.title}}
+    </span> 
+  </div>
+  {% endif %}
+  
+    {% if site.show_version %}
+{%- if site.version != false and version != "" -%}
   <div class="chrome:footer_item">
     <span class="text-lg">{{ version }}</span>
   </div>
-  {%- endif -%} -->
-
-<!--     <div class="chrome:footer_item">
-    <span class="text-lg"
-      >Updated: {{ site.time | date: "%Y-%m-%d %H:%M" }}</span
-    >
-        <div class="chrome:footer_item">
-    <span class="text-lg"
-      >Updated: {{ site.time | date: "%Y-%m-%d %H:%M" }}</span
-    >
+  {%- endif -%}
+    {% endif %}  
+    {% if site.show_last_update_datetime %}
   <div class="chrome:footer_item">
     <span class="text-lg"
       >Updated: {{ site.time | date: "%Y-%m-%d %H:%M" }}</span
     > 
-  </div> -->
+  </div>
+    {% endif %}
+
+
   
 </footer>
