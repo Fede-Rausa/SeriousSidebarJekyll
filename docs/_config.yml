@@ -6,16 +6,17 @@ baseurl: /SeriousSidebarJekyll
 
 title: Serious Sidebar Jekyll Theme
 version: 2.4.5
-global_footnotes: written by Z.R.
+custom_footnotes: written by Z.R.
 
-
+show_global_footnotes: true
+show_icons_navbar: false
 link_to_github_repo: false
 search_enabled: true
 auto_page_title: true
 show_title: true
 show_last_update_datetime: true
 show_version: true
-show_global_footnotes: true
+show_custom_footnotes: true
 
 sidebar:
   - getting-started
