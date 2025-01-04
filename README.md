@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Zendesk Garden Jekyll Theme
+title: Serious Sidebar Jekyll Theme
 auto_title: false
 ---
 
-# jekyll-theme-zendesk-garden
+# jekyll-theme-serious-sidebar
 
-A Jekyll theme using Zendesk Garden design patterns.
+A Jekyll theme with a sidebar easy to use.
 
 This is was initially possible thanks to the following awesome libraries:
 
