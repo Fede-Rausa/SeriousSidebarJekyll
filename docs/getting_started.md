@@ -34,8 +34,6 @@ All the parameters, except sidebar, are explained in [this table](https://fede-r
 ```yaml
 remote_theme: Fede-Rausa/SeriousSidebarJekyll@main
 
-baseurl: /SeriousSidebarJekyll
-
 title: Serious Sidebar Jekyll Theme
 version: v2.4.5
 custom_footnotes: written by Z.R.
