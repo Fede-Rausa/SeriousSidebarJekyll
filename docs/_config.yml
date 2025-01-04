@@ -6,6 +6,10 @@ baseurl: /SeriousSidebarJekyll
 search_enabled: true
 auto_page_title: true
 
+show_version: true
+show_title: true
+show_update_datetime: true
+
 sidebar:
   - getting-started
   - label: Customization
