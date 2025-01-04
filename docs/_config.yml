@@ -8,7 +8,7 @@ auto_page_title: true
 
 show_version: true
 show_title: true
-show_update_datetime: true
+show_last_update_datetime: true
 
 sidebar:
   - getting-started
