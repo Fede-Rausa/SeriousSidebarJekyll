@@ -4,7 +4,7 @@ title: Additional Config
 previous_page: search
 ---
 
-| Property                                    | Default                               |short description                                             |
+| Property                                    | Example Value                               |short description                                       |
 | ------------------------------------------- | ------------------------------------- |--------------------------------------------------------------|
 | [`auto_page_title`](#automatic-page-titles) | `false` |if true the title (with hyperlink to home) is present in all pages, otherwise just in the home (index.md)| 
 | [`mermaid_enabled`](#mermaid-enabled)       | `true`                                |if true you can use mermaid                                   |
