@@ -12,7 +12,7 @@ previous_page: search
 | `show_title`          | `true`                                |if true the title is always in the footnotes                  |
 | `show_icons_navbar`     | `true`                                |if true the icons navbar is diplayed (needed by link to repo) |
 | `link_to_github_repo`   | `true`                                |if true, and if the icons navabar is true, a link to the website repo is showed |
-| [`version`](#version)        | `version 4.5, with license` |version name (as v.3.4.0)                                     | 
+| [`version`](#version)        | `site.github.latest_release.tag_name` |version name (as v.3.4.0)                                     | 
 | `show_version`     | `true`                                |if true, and global footnotes is true,  the version name is showed in footnotes |
 | `show_global_footnotes`       | `true`                                |if true you can use footnotes  |
 | `show_last_update_datetime`      | `true`            |if true the datetime of the last change in the webpage is showed in the footnotes  |
