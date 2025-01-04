@@ -9,7 +9,7 @@ baseurl: /SeriousSidebarJekyll
 search_enabled: true
 auto_page_title: true
 
-
+link_to_github_repo: false
 show_title: true
 show_last_update_datetime: true
 show_version: true
