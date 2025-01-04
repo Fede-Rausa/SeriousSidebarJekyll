@@ -6,7 +6,7 @@ auto_title: false
 
 # jekyll-theme-zendesk-garden
 
-A Jekyll theme using Zendesk Garden design patterns.
+A Jekyll theme with a sidebar easy to use.
 
 This is was initially possible thanks to the following awesome libraries:
 
@@ -26,7 +26,6 @@ Define a `_config.yml` file in your GitHub pages directory and specify this remo
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 ```
 
-[Full Documentation](https://zendesk.github.io/jekyll-theme-zendesk-garden/)
 
 ## Contributing
 
